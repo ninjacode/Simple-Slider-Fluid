@@ -1,4 +1,18 @@
+===================
 Simple-Slider-Fluid
 ===================
 
-Codigo resultante de video tutorial para la creacion de un Slider sencillo en HTML, JS y CSS
+[en-EN]
+-------
+
+Source Code's Video: Making a simple slider with HTML, CSS & JS
+
+[es-ES]
+-------
+
+Codigo fuente de video: Haciendo un Slider simple con HTML, CSS y JS
+
+Demo
+====
+.. figure:: demo.png
+

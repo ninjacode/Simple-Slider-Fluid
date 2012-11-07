@@ -1,0 +1,84 @@
+/* CSS */
+body{
+	padding: 100px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+h1{
+	font-size: 64px;
+}
+
+.slider{
+	background: url('../img/grid.png') -25px -25px;
+	height: 60px;
+	position: relative;
+	width: 100%;
+}
+
+.slider > .emptyprogress{
+	background: #97d9fb;
+	border: 3px solid white;
+	cursor: pointer;
+	border-radius: 10px;
+	height: 40%;
+	top:25%;
+	position: absolute;
+	width: 100%;
+
+	-webkit-box-shadow: 1px 1px 3px 0px #ccc;
+	box-shadow: 1px 1px 3px 0px #ccc;
+}
+
+.slider > .progress{
+	background: #14aaf6;
+	border: 3px solid white;
+	cursor: pointer;
+	border-radius: 10px;
+	height: 40%;
+	top:25%;
+	position: absolute;
+	width: 0%;
+
+	-webkit-box-shadow: 1px 1px 3px 0px #ccc;
+	box-shadow: 1px 1px 3px 0px #ccc;
+}
+
+.slider > .indicator{
+	background: url('../img/pointer.png') no-repeat;
+	/*border: 1px solid red;*/
+	cursor: move;
+	height: 100%;
+	margin: 8px auto auto -30px;
+	left: 0%;
+	position: absolute;
+	width:60px;
+}
+
+.info, .info> label > input{
+	font-family: 'Julius Sans One', sans-serif;
+	color: grey;
+}
+
+.info{
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 30px;
+	width: auto;
+}
+
+.info> label > input{
+	border: none;
+	font-size: 20px;
+	width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+

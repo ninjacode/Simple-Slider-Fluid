@@ -5,7 +5,7 @@
 
 Video URL
 ---------
-<http://www.youtube.com/user/ninjacod3>
+<http://www.youtube.com/watch?v=ovT0M8rdtjk>
 
 [en-EN]
 -------

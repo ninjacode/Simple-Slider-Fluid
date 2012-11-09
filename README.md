@@ -5,7 +5,7 @@
 
 Video URL
 ---------
-<http://www.youtube.com/watch?v=ovT0M8rdtjk>
+<http://youtu.be/0hZ2TJWtKgk>
 
 [en-EN]
 -------

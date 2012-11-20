@@ -1,7 +1,5 @@
 #DEMO
-  ----
-  <img src='https://raw.github.com/ninjacode/Simple-Slider-Fluid/master/demo.png'></img>
-  ----
+<http://ninjacode.github.com/Simple-Slider-Fluid/>
 
 Video URL
 ---------
